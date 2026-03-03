@@ -255,6 +255,20 @@ Ecommerce-PenTest-Simulation/
 This project is created strictly for **educational purposes**.  
 No real systems were targeted or exploited.
 
+
+## 📚 Frameworks Used
+- PTES (Penetration Testing Execution Standard)
+- OWASP Testing Guide
+
+## 🛠 Methodology Followed
+1. Pre-Engagement
+2. Reconnaissance (Passive Only)
+3. Vulnerability Hypothesis
+4. Risk Analysis
+5. Recommendations
+
+## 📌 Assignment Submission
+This repository is created for academic learning purposes.
 ---
 
 # 👨‍💻 Author
